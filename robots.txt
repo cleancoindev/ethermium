@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ethermium.com/sitemap.xml
+Sitemap: https://ether-dex.github.io/ethermium/sitemap.xml
